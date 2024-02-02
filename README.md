@@ -6,12 +6,15 @@
   
 <img width="930" alt="Screenshot 2567-02-02 at 22 50 32" src="https://github.com/raattaa/dw-and-bi/assets/135449471/a6afae93-7761-48f0-80c6-b1976cc38958">
 
-## สร้าง folder ขึ้นมา 2 folder ดังนี้
+- ตัวอย่าง codespace
+<img width="1371" alt="Screenshot 2567-02-02 at 23 12 54" src="https://github.com/raattaa/dw-and-bi/assets/135449471/fa4d78ac-86d2-473d-936f-a1221b2830d1">
+
+### สร้าง folder ขึ้นมา 2 folder ใน codespaceดังนี้
   - 01-data-modeling-i : สำหรับเก็บ Code ทั้งหมด   
   - data : สำหรับเก็บ Data Source
     
 <img width="316" alt="Screenshot 2567-02-02 at 23 03 16" src="https://github.com/raattaa/dw-and-bi/assets/135449471/734f251f-afda-4e87-a8a8-3d094a36ddd6">
 
-## Data source
+### Data source
   - https://github.com/zkan/swu-ds525/blob/main/data/github_events_01.json
 
