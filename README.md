@@ -11,6 +11,7 @@
 
 ## Step 2
 สร้าง folder ขึ้นมา 2 folder ใน codespace เพื่อจัดเก็บไฟล์ที่เกี่ยวข้อง >>
+data source >>  https://github.com/zkan/swu-ds525/tree/main
    - 01-data-modeling-i : สำหรับเก็บ Code ทั้งหมด  
       ดาวน์โหลดไฟล์ที่ใช้ :
       - /docker-compose.yml 
@@ -60,16 +61,17 @@
 รันด้วย create_tables.py และเขียน code ของ PostgresSQL >>
 
     python create_tables.py
+    
+![1706896867397](https://github.com/raattaa/dw-and-bi/assets/135449471/9d99263a-ae82-4885-8905-bc28cacbd3c2)
 
-![1706897712918](https://github.com/raattaa/dw-and-bi/assets/135449471/eed2bb97-651b-4de6-95c4-523b0a3d5c00)
 
 จากนั้นสร้างไฟล์สำหรับ etl เพื่อนำข้อมูลจาก json เข้าไปยัง postgres  ใช้ไฟล์  etl.py
 
     python etl.py 
 
-![1706896867397](https://github.com/raattaa/dw-and-bi/assets/135449471/9d99263a-ae82-4885-8905-bc28cacbd3c2)
+![1706897712918](https://github.com/raattaa/dw-and-bi/assets/135449471/eed2bb97-651b-4de6-95c4-523b0a3d5c00)
 
-### Relationship ของ แต่ละ Table ในไฟล์ create_tables.py
+## Relationship ของ แต่ละ Table ในไฟล์ create_tables.py
 
 
 
