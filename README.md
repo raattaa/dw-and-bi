@@ -61,12 +61,13 @@
 
     python create_tables.py
 
-![1706896867397](https://github.com/raattaa/dw-and-bi/assets/135449471/9d99263a-ae82-4885-8905-bc28cacbd3c2)
+![1706897712918](https://github.com/raattaa/dw-and-bi/assets/135449471/eed2bb97-651b-4de6-95c4-523b0a3d5c00)
 
 จากนั้นสร้างไฟล์สำหรับ etl เพื่อนำข้อมูลจาก json เข้าไปยัง postgres  ใช้ไฟล์  etl.py
 
     python etl.py 
 
+![1706896867397](https://github.com/raattaa/dw-and-bi/assets/135449471/9d99263a-ae82-4885-8905-bc28cacbd3c2)
 
 ### Relationship ของ แต่ละ Table ในไฟล์ create_tables.py
 
