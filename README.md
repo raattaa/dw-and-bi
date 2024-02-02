@@ -1,4 +1,4 @@
-# Data Wareouse and Business Intelligence
+# Data Warehouse and Business Intelligence
 
 ## Project Week1
 ## Step 1 
@@ -71,7 +71,8 @@ data source >>  https://github.com/zkan/swu-ds525/tree/main
 
 ![1706897712918](https://github.com/raattaa/dw-and-bi/assets/135449471/eed2bb97-651b-4de6-95c4-523b0a3d5c00)
 
-## Relationship ของ แต่ละ Table ในไฟล์ create_tables.py
+## Data Model
+### Relationship ของ แต่ละ Table ในไฟล์ create_tables.py
 
 
 
