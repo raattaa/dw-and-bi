@@ -2,5 +2,6 @@
 
 ## Project Week1
 ### Documentation
-1. สร้าง Code space เพื่อเขียน code และจัดเก็บ History สามารถเลือกได้ที่ หัวข้อ Code (1) หลังจากนั้นจะได้ชื่อของ Code space จะได้มาจากการสุ่ม
-![1706887879385](https://github.com/raattaa/dw-and-bi/assets/135449471/06ae11b1-6fc3-440f-88b1-63ef0082d8e2)
+- เลือกที่หัวข้อโค้ด code >> Code space (1) เพื่อเขียน code และจัดเก็บ History และจะได้ชื่อของ Code space จะได้มาจากการสุ่ม (2)
+<img width="421" alt="Screenshot 2567-02-02 at 22 48 00" src="https://github.com/raattaa/dw-and-bi/assets/135449471/2c4fe51e-5429-4337-b71a-23a76baa0ef5">
+
