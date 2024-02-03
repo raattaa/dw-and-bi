@@ -69,10 +69,16 @@ data source >>  https://github.com/zkan/swu-ds525/tree/main
 
     python etl.py 
 
-![1706897712918](https://github.com/raattaa/dw-and-bi/assets/135449471/eed2bb97-651b-4de6-95c4-523b0a3d5c00)
+![1706939378903](https://github.com/raattaa/dw-and-bi/assets/135449471/fbcc9695-197f-4e9c-84be-d023a09fa508)
+
+
+![1706939407269](https://github.com/raattaa/dw-and-bi/assets/135449471/c19e94da-2350-4819-80c1-82e979fe3e18)
+
 
 ## Data Model
-### Relationship ของ แต่ละ Table ในไฟล์ create_tables.py
+### ตัวอย่าง Relationship จากการ create ตาราง และ นำเข้าข้อมูลไปยัง etl.py ใน Step 6
+
+![1706939697858](https://github.com/raattaa/dw-and-bi/assets/135449471/3515ce5c-1f1d-4f7c-8062-222e301f641c)
 
 
 
