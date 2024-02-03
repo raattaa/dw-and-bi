@@ -76,7 +76,7 @@ data source >>  https://github.com/zkan/swu-ds525/tree/main
 
 
 ## Data Model
-### ตัวอย่าง Relationship จากการ create ตาราง และ นำเข้าข้อมูลไปยัง etl.py ใน Step 6
+ ตัวอย่าง Relationship จากการ create ตาราง และ นำเข้าข้อมูลไปยัง etl.py ใน Step 6
 
 ![1706939697858](https://github.com/raattaa/dw-and-bi/assets/135449471/3515ce5c-1f1d-4f7c-8062-222e301f641c)
 
