@@ -11,7 +11,7 @@
 1. สร้าง End-to-End Data Pipeline เพื่อดึงข้อมูลค่าฝุ่น PW2.5 มาแสดงใน Dashboard พร้อมเปรียบเทียบค่าฝุ่นกับคำแนะนำระดับค่าฝุ่นที่ปลอดภัยขององค์การอนามัยโลก(WHO)
 2. จัดอัดดับบริเวณที่มีค่าฝุ่น PM2.5 สูงที่สุด หรือเกินเกณฑ์ที่ WHO กำหนด เพื่อติดตามเฝ้าระวังปัญหาสุขภาพในพื้นที่นั้นๆ  
 
-## Data Stacks & Architecture work flow
+## Tech Stacks & Architecture work flow
 ![Alt text](image/000-data-stack.png)
 
 ### Data Source
